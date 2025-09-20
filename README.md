@@ -110,7 +110,12 @@ DATA_URL = "https://raw.githubusercontent.com/tarekmasryo/Football-Matches-Resul
 
 ------------------------------------------------------------------------
 
-## 🙌 Citation
+## Related Repositories
+- 📂 [Football Matches Dataset](https://github.com/tarekmasryo/football-matches-dataset)
+- 🔍 [Football Matches EDA](https://github.com/tarekmasryo/football-matches-eda)
+
+
+
 
 If you use this dashboard or dataset, please credit as:
 
