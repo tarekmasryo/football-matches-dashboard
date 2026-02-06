@@ -69,8 +69,8 @@ Dataset](https://github.com/tarekmasryo/Football-Matches-Results-2024-2025-seaso
 Clone the repo and install requirements:
 
 ``` bash
-git clone https://github.com/tarekmasryo/Football-Matches-Results-2024-2025-season.git
-cd Football-Matches-Results-2024-2025-season
+git clone https://github.com/tarekmasryo/football-matches-dashboard.git
+cd football-matches-dashboard
 pip install -r requirements.txt
 ```
 
